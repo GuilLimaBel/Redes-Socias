@@ -38,3 +38,6 @@ O sistema tem como objetivo desenvolver uma rede social onde os usuários possam
 **RF08**: O sistema deve permitir que uma postagem possua vários comentários.
 
 **RF09**: O sistema deve permitir que os usuários visualizem as postagens e seus respectivos comentários.
+
+## Modelagem Conceitual
+![](\(modelo-conceitual-rs.png)
