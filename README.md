@@ -40,4 +40,4 @@ O sistema tem como objetivo desenvolver uma rede social onde os usuários possam
 **RF09**: O sistema deve permitir que os usuários visualizem as postagens e seus respectivos comentários.
 
 ## Modelagem Conceitual
-![](\(modelo-conceitual-rs.png)
+![](modelo-conceitual-rs.png)
